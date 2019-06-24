@@ -33,6 +33,8 @@ EasyRMS主要的几个配置项：
 Windows版本运行(控制台调试运行)：
 EasyRMS.exe -c ./easyrms.xml -d
 
+Linux版本运行： ./easyrms -c ./easyrms.xml -d
+
 ## 调用方法 ##
 ### 
 - 启动录像
